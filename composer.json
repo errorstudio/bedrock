@@ -6,14 +6,9 @@
   "homepage": "http://roots.io/wordpress-stack/",
   "authors": [
     {
-      "name": "Scott Walkinshaw",
-      "email": "scott.walkinshaw@gmail.com",
-      "homepage": "https://github.com/swalkinshaw"
-    },
-    {
-      "name": "Ben Word",
-      "email": "ben@benword.com",
-      "homepage": "https://github.com/retlehs"
+      "name": "Error Studio",
+      "email": "info@errorstudio.co.uk",
+      "homepage": "https://errorstudio.co.uk"
     }
   ],
   "keywords": [
